@@ -8,6 +8,8 @@ body {
 
 article {
     text-align: center;
+    color: blue;
+    font-style: italic;
 }
 
 /*

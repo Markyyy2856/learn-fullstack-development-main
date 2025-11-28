@@ -1,0 +1,4 @@
+.pricing {
+    /* In flexbox, only the direct child will be affected */
+    display: flex;
+}
