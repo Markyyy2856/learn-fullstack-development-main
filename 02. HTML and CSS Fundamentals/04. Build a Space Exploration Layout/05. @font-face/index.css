@@ -3,6 +3,15 @@
     font-family: Corleone;
 }
 
+@font-face {
+    src: url("Bilderberg.otf");
+    font-family: Bilderberg;
+}
+
 h1 {
     font-family: Corleone;
+}
+
+h2 {
+    font-family: Bilderberg;
 }
